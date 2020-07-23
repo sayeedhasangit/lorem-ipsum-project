@@ -1,0 +1,99 @@
+@font-face{
+    font-family: 'dauphinn';
+    src: url(../fonts/Dauphinn.ttf);
+}
+header h1{
+    font-family: dauphinn;
+    font-size: 70px;
+    text-align: center;
+    line-height: 90px;
+}
+header h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+header h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+}
+section{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.artical{
+    height: 229px;
+    width: 436px;
+    margin: 0 14px 0 29px;
+    float: left;
+    display: block;
+}
+.artical h3{
+    font-family: dauphinn;
+    font-size: 24px;
+    line-height: 24px;
+}
+.artical p{
+    text-align: justify;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.artical p span{
+    font-weight: 600;
+}
+.artical2{
+    height: 249px;
+    width: 436.8px;
+    margin: 0 29px 0 14px;
+    float: right;
+    display: block;
+}
+.artical2 p{
+    text-align: justify;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.artical2 h3{
+    font-family: dauphinn;
+    font-size: 24px;
+    line-height: 24px;
+}
+section #subSection{
+    margin-top: 280px;
+}
+section #lastSection{
+    margin-top: 600px;
+}
+.artical2 td{
+    height: 82.8px;
+    width: 68px;
+    display: table-cell;
+    border: collapse;
+    vertical-align: middle;
+}
+.inputNumber{
+        height: 19.2px;
+        width: 30px;
+        border-top: 1px solid #666666;
+        border-right: 1px solid #cccccc;
+        border-bottom: 1px solid #cccccc;
+        border-left: 1px solid #666666;
+        display: block;
+}
+.input{
+    margin-right: 900px;
+}
+.radio{
+    display: inline-block;
+}
+.structure{
+    margin-left: 150px;
+    margin-right: 150px;
+}    
